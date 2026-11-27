@@ -1,3 +1,4 @@
 Línea 1: Git guarda el historial del proyecto.
-Línea 2: los caballos son mi pasión.
+Línea 2: Cada commit es una foto del proyecto..
 Línea 3: Las ramas permiten trabajar sin dañar main.
+Línea 3: Los caballos son mi pasión.
