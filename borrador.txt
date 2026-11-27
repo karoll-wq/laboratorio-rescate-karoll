@@ -1,0 +1,12 @@
+## Lo que hicimos
+
+- Clonamos el repositorio y trabajamos cada uno en su propia rama.
+- Hicimos commits con Conventional Commits (`feat:`, `docs:`, `chore:`).
+- Subimos los cambios y abrimos pull requests.
+- Revisamos el PR de otro equipo, dejamos comentarios con sugerencias y lo aprobamos.
+- Fusionamos el PR en `main` y actualizamos nuestro repositorio local con `git pull`.
+- Usamos `git diff` y `git diff --staged` para revisar los cambios antes de hacer commit.
+- Aprendimos a deshacer cambios con `git restore` y `git revert`.
+- Resolvimos conflictos y errores al cambiar de rama y al subir cambios (`git push`).
+- Agregamos un `.gitignore` para no subir archivos innecesarios.
+- Mejoramos el README con la descripción, los integrantes y el flujo de trabajo.
